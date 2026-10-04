@@ -1,10 +1,10 @@
 <div align="center">
 
-# Rami Artaş
+# Muhammet Rami ARTAŞ
 
 ### Software Engineer · Full-Stack & Mobile Architect
 
-**Building scalable software products, distributed systems and high-performance applications.**
+**Designing scalable systems, production-grade applications and maintainable software architectures.**
 
 <br/>
 
@@ -20,169 +20,213 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ramiartas0&style=flat-square&color=238636" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=ramiartas0&style=flat-square&color=58a6ff" />
 
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm a **Software Engineer** focused on designing and building scalable, maintainable and production-ready software systems.
+I'm a **Software Engineer & Full-Stack Architect** focused on designing scalable, maintainable and production-ready software systems.
 
-My work spans the complete product lifecycle — from **system architecture and backend services** to **modern web interfaces and cross-platform mobile applications**.
+I work across the complete software lifecycle — from **system architecture and backend services** to **modern web interfaces and cross-platform mobile applications**.
 
-I primarily work with **.NET, TypeScript, React and Flutter**, while applying strong software engineering principles to create systems that remain maintainable as they grow.
+My primary technology stack includes **C#, .NET, TypeScript, React and Flutter**, supported by strong architectural principles and production-oriented engineering practices.
 
-- **Backend Engineering:** C#, .NET, ASP.NET Core, REST APIs
-- **Web Engineering:** TypeScript, React, modern frontend architectures
-- **Mobile Engineering:** Flutter, Android & iOS
-- **Architecture:** Clean Architecture, DDD, Modular Monoliths, Layered Architecture
-- **Data:** PostgreSQL, SQL Server, SQLite
-- **Engineering Practices:** SOLID, TDD, maintainability, performance and scalability
-- **Infrastructure:** Docker, Git and production-oriented development workflows
+- ⚙️ **Backend:** C# · .NET · ASP.NET Core · Node.js
+- 🌐 **Frontend:** TypeScript · JavaScript · React · Tailwind CSS
+- 📱 **Mobile:** Flutter · Dart · Android · iOS
+- 🗄️ **Data:** PostgreSQL · SQL Server · SQLite
+- 🏗️ **Architecture:** Clean Architecture · DDD · SOLID · Modular Architecture
+- 🧪 **Engineering:** TDD · Testability · Performance · Maintainability
+- 🐳 **Infrastructure:** Docker · Git · GitHub
 
-> I don't just build features — I design systems that can evolve.
+<br/>
+
+> **I don't just build features. I design systems that can evolve.**
 
 ---
 
-## Engineering Focus
+# 🚀 Featured Repositories
+
+<div align="center">
+
+<a href="https://github.com/ramiartas0/.netcore-dort-katmanli-mimari">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ramiartas0&repo=.netcore-dort-katmanli-mimari&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
+</a>
+
+<a href="https://github.com/ramiartas0/time-off-tracker">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ramiartas0&repo=time-off-tracker&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
+</a>
+
+<a href="https://github.com/ramiartas0/flight-booking-app">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ramiartas0&repo=flight-booking-app&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
+</a>
+
+<a href="https://github.com/ramiartas0/PHPMVC">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ramiartas0&repo=PHPMVC&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### [→ View All Repositories](https://github.com/ramiartas0?tab=repositories)
+
+</div>
+
+---
+
+# 📊 Development Activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ramiartas0&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ramiartas0&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" />
+
+</div>
+
+---
+
+## 📈 Contribution & Commit Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ramiartas0&bg_color=0D1117&color=8B949E&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## 💻 Most Used Languages
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramiartas0&layout=compact&langs_count=10&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+
+</div>
+
+---
+
+# 🛠 Technology Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=cs,ts,js,dart,python,cpp" />
+
+<br/><br/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs" />
+
+<br/><br/>
+
+### Web & Mobile
+
+<img src="https://skillicons.dev/icons?i=react,flutter,tailwind,androidstudio" />
+
+<br/><br/>
+
+### Database & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,git,github" />
+
+</div>
+
+---
+
+# 🏗 Engineering & Architecture
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### System Architecture
+### Architecture
 
 - Clean Architecture
 - Domain-Driven Design
-- SOLID Principles
 - Modular Architecture
 - N-Layer Architecture
 - Dependency Injection
 - Design Patterns
-- Testable Codebases
+- SOLID Principles
 
 </td>
+
 <td width="50%" valign="top">
 
-### Product Engineering
+### Engineering
 
-- RESTful APIs
+- REST API Design
 - Authentication & Authorization
-- Database Design
-- Mobile Applications
-- Responsive Web Applications
+- Database Architecture
+- Testable Codebases
 - Performance Optimization
+- Responsive Applications
 - Production Deployment
-- Maintainable UI Architecture
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## Technology Stack
+# ⚡ Engineering Philosophy
 
-### Backend
+```text
+Readable Code       > Clever Code
+Architecture        > Shortcuts
+Maintainability     > Temporary Speed
+Simplicity          > Unnecessary Complexity
+Measured Performance > Assumptions
+```
 
-<p>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,python" />
-</p>
+Good engineering is not about using the largest number of technologies.
 
-### Frontend & Mobile
-
-<p>
-<img src="https://skillicons.dev/icons?i=ts,js,react,flutter,dart,tailwind" />
-</p>
-
-### Databases & Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,git,github" />
-</p>
-
-### Additional Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp" />
-</p>
+It is about choosing the **right architecture, the right abstractions and the simplest reliable solution** for the problem.
 
 ---
 
-## Core Technologies
+# 🎯 Current Focus
 
 ```text
-Backend        C# · .NET · ASP.NET Core · Node.js
-Frontend       TypeScript · JavaScript · React · Tailwind CSS
-Mobile         Flutter · Dart · Android · iOS
-Databases      PostgreSQL · SQL Server · SQLite
-Architecture   Clean Architecture · DDD · SOLID · Modular Design
-DevOps         Docker · Git · GitHub
+🏗  Scalable Software Architecture
+⚙️  High-Performance Backend Systems
+📱  Production-Grade Flutter Applications
+⚛️  Modern React Applications
+🧩  Domain-Driven Design
+🐳  Containerized Application Infrastructure
+📊  Performance & Scalability
 ```
 
 ---
 
-## GitHub Activity
+# 🔥 GitHub
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ramiartas0&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
+<a href="https://github.com/ramiartas0?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-My_Repositories-238636?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ramiartas0&theme=github-dark-blue&hide_border=true&background=0D1117" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramiartas0&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+<a href="https://github.com/ramiartas0">
+  <img src="https://img.shields.io/badge/Follow-Development_Activity-1F6FEB?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## Development Philosophy
-
-```text
-Readable code > clever code
-Architecture > shortcuts
-Maintainability > temporary speed
-Performance should be measured
-Complexity should be justified
-Software should be designed to evolve
-```
-
-I believe good engineering is not about using as many technologies as possible.
-
-It's about choosing the **right architecture, the right abstractions and the simplest reliable solution** for the problem.
-
----
-
-## Current Focus
-
-- Designing scalable backend architectures
-- Building production-grade Flutter applications
-- Developing modern React applications
-- Improving distributed system design skills
-- Performance-oriented backend development
-- Exploring advanced software architecture patterns
-
----
-
-## Contribution & Development
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ramiartas0&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=238636&point=FFFFFF" width="100%" />
-
-</div>
-
----
-
-## Connect With Me
+# 🤝 Connect
 
 <div align="center">
 
@@ -200,6 +244,6 @@ It's about choosing the **right architecture, the right abstractions and the sim
 
 <br/><br/>
 
-### Open to building meaningful software and solving complex engineering problems.
+**Building software. Designing systems. Continuously improving.**
 
 </div>
