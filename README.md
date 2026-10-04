@@ -1,81 +1,205 @@
 <div align="center">
 
-  <h1>RAMİ ARTAŞ</h1>
-  <p><strong>Software Engineer & Full-Stack Architect</strong></p>
-  <p><em>Building Scalable Distributed Systems • Mobile & High-Performance Web Applications</em></p>
+# Rami Artaş
 
-  <p>
-    <a href="https://github.com/ramiartas0">
-      <img src="https://img.shields.io/badge/Status-Building_Next--Gen_Systems-238636?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
-    </a>
-    <a href="https://github.com/ramiartas0">
-      <img src="https://img.shields.io/badge/Architecture-Clean_%26_DDD-1f6feb?style=for-the-badge&logo=diagram-next&logoColor=white" alt="Architecture" />
-    </a>
-  </p>
+### Software Engineer · Full-Stack & Mobile Architect
 
-</div>
+**Building scalable software products, distributed systems and high-performance applications.**
 
----
+<br/>
 
-### 👨‍💻 Hakkımda / About Me
+<a href="https://github.com/ramiartas0">
+  <img src="https://img.shields.io/badge/GitHub-ramiartas0-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/ramiartas0/">
+  <img src="https://img.shields.io/badge/LinkedIn-Rami_Artaş-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/muartas0/">
+  <img src="https://img.shields.io/badge/Instagram-@muartas0-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
-- 🚀 Sistem mimarisi, yüksek performanslı web ve mobil uygulamalar üzerine odaklanan bir **Yazılım Mühendisiyim**.
-- 🛠️ **Full-Stack & Mobil:** C# / .NET, TypeScript, React ve Flutter ekosistemlerinde uçtan uca kurumsal çözümler geliştiriyorum.
-- 📐 **Mühendislik İlkeleri:** Clean Architecture, Domain-Driven Design (DDD), N-Katmanlı Mimari ve Test Güdümlü Geliştirme (TDD) standartlarını uyguluyorum.
-- ⚡ **Aktif Geliştirme:** Yıllık **2,300+ katkı** ile her gün üretim kalitesinde kod yazıyor ve yeni teknolojileri derinlemesine inceliyorum.
+<br/><br/>
 
----
-
-### 🛠️ Teknoloji & Yetkinlik Haritası
-
-<div align="center">
-
-#### Diller & Çalışma Zamanları
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-#### Mobil & Frontend
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-#### Backend, Veritabanı & Altyapı
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MS SQL Server](https://img.shields.io/badge/MS_SQL-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=ramiartas0&style=flat-square&color=238636" alt="Profile Views" />
 
 </div>
 
 ---
 
-### 📊 GitHub İstatistikleri
+## About Me
+
+I'm a **Software Engineer** focused on designing and building scalable, maintainable and production-ready software systems.
+
+My work spans the complete product lifecycle — from **system architecture and backend services** to **modern web interfaces and cross-platform mobile applications**.
+
+I primarily work with **.NET, TypeScript, React and Flutter**, while applying strong software engineering principles to create systems that remain maintainable as they grow.
+
+- **Backend Engineering:** C#, .NET, ASP.NET Core, REST APIs
+- **Web Engineering:** TypeScript, React, modern frontend architectures
+- **Mobile Engineering:** Flutter, Android & iOS
+- **Architecture:** Clean Architecture, DDD, Modular Monoliths, Layered Architecture
+- **Data:** PostgreSQL, SQL Server, SQLite
+- **Engineering Practices:** SOLID, TDD, maintainability, performance and scalability
+- **Infrastructure:** Docker, Git and production-oriented development workflows
+
+> I don't just build features — I design systems that can evolve.
+
+---
+
+## Engineering Focus
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### System Architecture
+
+- Clean Architecture
+- Domain-Driven Design
+- SOLID Principles
+- Modular Architecture
+- N-Layer Architecture
+- Dependency Injection
+- Design Patterns
+- Testable Codebases
+
+</td>
+<td width="50%" valign="top">
+
+### Product Engineering
+
+- RESTful APIs
+- Authentication & Authorization
+- Database Design
+- Mobile Applications
+- Responsive Web Applications
+- Performance Optimization
+- Production Deployment
+- Maintainable UI Architecture
+
+</td>
+</tr>
+</table>
+
+---
+
+## Technology Stack
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,python" />
+</p>
+
+### Frontend & Mobile
+
+<p>
+<img src="https://skillicons.dev/icons?i=ts,js,react,flutter,dart,tailwind" />
+</p>
+
+### Databases & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,git,github" />
+</p>
+
+### Additional Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp" />
+</p>
+
+---
+
+## Core Technologies
+
+```text
+Backend        C# · .NET · ASP.NET Core · Node.js
+Frontend       TypeScript · JavaScript · React · Tailwind CSS
+Mobile         Flutter · Dart · Android · iOS
+Databases      PostgreSQL · SQL Server · SQLite
+Architecture   Clean Architecture · DDD · SOLID · Modular Design
+DevOps         Docker · Git · GitHub
+```
+
+---
+
+## GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramiartas0&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramiartas0&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" alt="Top Languages" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ramiartas0&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ramiartas0&theme=github-dark-blue&hide_border=true&background=0D1117" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramiartas0&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+
 </div>
 
 ---
 
-### 🤝 İletişim & Ağ
+## Development Philosophy
+
+```text
+Readable code > clever code
+Architecture > shortcuts
+Maintainability > temporary speed
+Performance should be measured
+Complexity should be justified
+Software should be designed to evolve
+```
+
+I believe good engineering is not about using as many technologies as possible.
+
+It's about choosing the **right architecture, the right abstractions and the simplest reliable solution** for the problem.
+
+---
+
+## Current Focus
+
+- Designing scalable backend architectures
+- Building production-grade Flutter applications
+- Developing modern React applications
+- Improving distributed system design skills
+- Performance-oriented backend development
+- Exploring advanced software architecture patterns
+
+---
+
+## Contribution & Development
 
 <div align="center">
 
-  <a href="https://github.com/ramiartas0">
-    <img src="https://img.shields.io/badge/GitHub-ramiartas0-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Rami_Artaş-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ramiartas0&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=238636&point=FFFFFF" width="100%" />
+
+</div>
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/ramiartas0">
+  <img src="https://img.shields.io/badge/GitHub-ramiartas0-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/ramiartas0/">
+  <img src="https://img.shields.io/badge/LinkedIn-Rami_Artaş-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/muartas0/">
+  <img src="https://img.shields.io/badge/Instagram-@muartas0-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<br/><br/>
+
+### Open to building meaningful software and solving complex engineering problems.
 
 </div>
