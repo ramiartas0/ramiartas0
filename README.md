@@ -1,6 +1,6 @@
 <div align="center">
 
-# Rami Artaş
+# Muhammet Rami ARTAŞ
 
 ### Software Engineer · Full-Stack & Mobile Architect
 
@@ -170,11 +170,17 @@ DevOps         Docker · Git · GitHub
 
 ---
 
-## Commit & Contribution Activity
+## Contribution & Commit Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ramiartas0&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=238636&point=FFFFFF" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramiartas0&theme=github_dark" width="100%" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ramiartas0&theme=github_dark&utcOffset=3" width="49%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramiartas0&theme=github_dark" width="49%" />
 
 </div>
 
